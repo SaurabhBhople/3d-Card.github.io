@@ -192,14 +192,17 @@ body::after {
 .container .card .content .position{
     color: purple;
     font-weight: bold;
-    font-size:1.05em;
+    font-size:1.02em;
 }
 
 .container .card .content p{
-    margin-top: 10px;
+    margin-top: 5px;
     font-size: 0.8em;
     color: #fff;
     font-weight: 300;
+}
+.container .card .content p b{
+    font-weight: 500;
 }
 .container .card .content a{
     position: relative;
